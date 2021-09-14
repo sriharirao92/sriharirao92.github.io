@@ -1,3 +1,4 @@
-# US census and demographics visualization
+# My github page
 
-Data Visualization Course Project
+Current websites include:
+### Data Visualization of US census and Demographics: "https://sriharirao92.github.io/DataViz/"
